@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637988182 source:e:\debug project\c\crc_test\devicescrc.c
+	"stdint.h"
+	"DevicesCRC.h"
+
+1637988188 e:\debug project\c\crc_test\devicescrc.h
+
+1637988448 source:e:\debug project\c\crc_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"DevicesCRC.h"
+
